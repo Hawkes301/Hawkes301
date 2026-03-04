@@ -1,5 +1,7 @@
 ## Hawkes301
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=R Hawkes&animation=fadeIn&type=Blur&color=gradient&height=100"/>
+</p>
 Welcome to my GitHub
 
 ### Who am i?
