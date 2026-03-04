@@ -1,7 +1,7 @@
 ## Hawkes301
 <p align="center">
   
-  <img src="https://capsule-render.vercel.app/api?text=R Hawkes&animation=fadeIn&type=blur&color=auto&height=100"/>
+  <img src="  https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=RHawkes&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false"/>
 </p>
 Welcome to my GitHub
 
